@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Simon Griparič
+- 👀 I’m interested in making cool python projects
+- 🌱 I’m currently learning python and c++
+- 📫 You can reach me on email griparic.simon@gmail.com
